@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://valfilven.github.io/sitemap.html.gz
+Sitemap: https://valfilven.github.io/app/sitemap.html.gz
+Sitemap: https://valfilven.github.io/assets/sitemap.html.gz
+Sitemap: https://valfilven.github.io/css/sitemap.html.gz
+Sitemap: https://valfilven.github.io/includes/sitemap.html.gz
+Sitemap: https://valfilven.github.io/item/sitemap.html.gz
+Sitemap: https://valfilven.github.io/src/sitemap.html.gz
